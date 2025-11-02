@@ -1,3 +1,4 @@
 /misc
 
-HW2/src/hw1.code-workspace
+# VS Code workspace files
+*.code-workspace
