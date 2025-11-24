@@ -2,3 +2,14 @@
 
 # VS Code workspace files
 *.code-workspace
+
+# Python virtual environment
+venv/
+
+# Requirements file
+requirements.txt
+
+.vscode/
+
+HW3/data/
+HW3/kmeans.py
